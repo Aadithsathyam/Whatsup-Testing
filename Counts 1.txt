@@ -1,0 +1,15 @@
+https://devauth.v3.pitchcrm.com
+
+
+Git:-
+It is a Version control or Version control system & Source code management.
+
+Version control:-
+Upto the functionality, The code will be changed. So, We will store and manage the datas up to date.
+
+Basic terminologies in GitHub:-
+1. Repository(A folder contains all the files related to the projects.
+2. Read me(Basic instructions of usage)
+3. Commit(Save changes)
+
+
